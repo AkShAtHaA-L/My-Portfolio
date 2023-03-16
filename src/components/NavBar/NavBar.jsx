@@ -29,22 +29,15 @@ class NavBar extends React.Component {
 
         const homeClass = location.pathname === '/' ? 'active-item' : '';
         const aboutClass = location.pathname === '/about' ? 'active-item' : '';
-        const projectsClass =
-            location.pathname === '/projects' ? 'active-item' : '';
-        const skillsClass =
-            location.pathname === '/skills' ? 'active-item' : '';
-        const contactClass =
-            location.pathname === '/contact' ? 'active-item' : '';
+        const projectsClass = location.pathname === '/projects' ? 'active-item' : '';
+        const skillsClass = location.pathname === '/skills' ? 'active-item' : '';
+        const contactClass = location.pathname === '/contact' ? 'active-item' : '';
 
         return (
             <Menu 
                 isOpen={this.state.menuOpen}
                 onStateChange={(state)=>this.handleStateChange(state)}
             >
-                {/* We NEVER want to use <a> inside our react router application */}
-                {/* <a id='home' className='menu-item' href='/'>
-                    Home
-                </a> */}
                 <Link to='/' onClick ={()=>this.closeMenu()} className={`menu-item ${homeClass}`}>
                     Home
                 </Link>
