@@ -1,18 +1,14 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.abcfcdc6.css",
-    "main.js": "/My-Portfolio/static/js/main.d76ac6c3.js",
+    "main.css": "/My-Portfolio/static/css/main.f0b30005.css",
+    "main.js": "/My-Portfolio/static/js/main.36236fcb.js",
     "static/media/home_anime_girl.gif": "/My-Portfolio/static/media/home_anime_girl.0737d5320b0829978d1f.gif",
-    "static/media/skills_vector.png": "/My-Portfolio/static/media/skills_vector.1fb5f4a4d14c368c84df.png",
-    "static/media/about_anime_girl.gif": "/My-Portfolio/static/media/about_anime_girl.9da19257d5b91c906ada.gif",
-    "static/media/about_vector.png": "/My-Portfolio/static/media/about_vector.c42fe3db5738a7e28724.png",
-    "static/media/contact_anime.png": "/My-Portfolio/static/media/contact_anime.1f3936c4dbee6daaaa77.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.abcfcdc6.css.map": "/My-Portfolio/static/css/main.abcfcdc6.css.map",
-    "main.d76ac6c3.js.map": "/My-Portfolio/static/js/main.d76ac6c3.js.map"
+    "main.f0b30005.css.map": "/My-Portfolio/static/css/main.f0b30005.css.map",
+    "main.36236fcb.js.map": "/My-Portfolio/static/js/main.36236fcb.js.map"
   },
   "entrypoints": [
-    "static/css/main.abcfcdc6.css",
-    "static/js/main.d76ac6c3.js"
+    "static/css/main.f0b30005.css",
+    "static/js/main.36236fcb.js"
   ]
 }
