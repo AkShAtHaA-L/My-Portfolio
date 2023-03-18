@@ -1,9 +1,7 @@
 import React from 'react';
 import FooterLink from '../FooterLink/FooterLink';
 import Header from '../Header/Header';
-import aboutVector from './../../assets/about_vector.png';
 import './About.css';
-import aboutAnime from './../../assets/about_anime_girl.gif';
 
 const About = () => {
     return (
@@ -33,14 +31,6 @@ const About = () => {
                         I am constantly learning and growing in my field. I am always eager to expand my skillset and take on new challenges. I am excited to take on new development challenges and contribute to building innovative solutions.
                     </p>
                 </div>
-
-                <div className='about-main-right'>
-                    <img
-                        src={aboutAnime}
-                        alt='animation'
-                        className='about-anime'
-                    />
-                </div>
             </div>
 
             <FooterLink
@@ -48,10 +38,6 @@ const About = () => {
                 link='projects!'
                 toAdress='/projects'
             />
-            {/* Vector Frame! */}
-            <div className='vector-frame'>
-                <img src={aboutVector} className='about-vector' alt='about' />
-            </div>
         </div>
     );
 };

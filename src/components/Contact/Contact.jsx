@@ -2,7 +2,6 @@ import React from 'react';
 import FooterLink from '../FooterLink/FooterLink';
 import Header from '../Header/Header';
 import './Contact.css';
-import contactVector from './../../assets/contact_anime.png';
 import github from './../../assets/gh.png';
 import linkedin from './../../assets/li.png';
 import instagram from './../../assets/in.png';
@@ -77,14 +76,6 @@ const Contact = () => {
                 toAdress='/about'
                 link='about me.'
             />
-
-            <div className='vector-frame'>
-                <img
-                    src={contactVector}
-                    alt='vector'
-                    className='about-vector'
-                />
-            </div>
         </div>
     );
 };

@@ -10,11 +10,11 @@ class Home extends Component {
             <div className='home-container'>
                 <div className='header-text'>
                     <h1>Hi there!</h1>
-                    <h2>This is Akshatha</h2>
+                    <h2>This is Akshatha.L</h2>
                     <p>Software developer with a goal-driven creative mindset and passion for learning and innovating.</p>
                 </div>
                 <div className='head-btns'>
-                    <a href='https://drive.google.com/file/d/162hwukAt4vzy8IWnVWDmQwxl7rzb1sca/view?usp=sharing' className='btn btn-white'>
+                    <a href='https://drive.google.com/file/d/162hwukAt4vzy8IWnVWDmQwxl7rzb1sca/view?usp=share_link' className='btn btn-white'>
                         <p className='btn-text'>My Resume</p>
                     </a>
                     <Link to='/contact' className='btn btn-transparent'>
