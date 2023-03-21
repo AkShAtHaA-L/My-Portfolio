@@ -12,13 +12,13 @@ const Contact = () => {
     return (
         <div className='section-container'>
             <Header
-                heading='Get in touch.'
-                details='Interested to collaborate? Feel free to drop me an email.'
+                heading="Let's connect!"
+                details="I'm actively looking for new opportunities, feel free to drop an email, I will definetely get back to you :)"
             />
 
             {/* Form section */}
             <div className='contact-form-container'>
-                <form className='contact-form'>
+                <form className='contact-form' action="https://formspree.io/f/meqwljak" method="POST">
                     {/* Email Id Input */}
                     <input
                         type='email'
@@ -45,29 +45,14 @@ const Contact = () => {
 
             {/* Social icons */}
             <div className='social-icons-container'>
-                <a href='https://github.com/MadhavBahl' className='social-icon'>
+                <a href='https://github.com/AkShAtHaA-L' target="_blank" className='social-icon'>
                     <img src={github} alt='social' />
                 </a>
                 <a
-                    href='https://linkedin.com/in/MadhavBahl'
+                    href='https://www.linkedin.com/in/akshatha-acharya/' target="_blank"
                     className='social-icon'
                 >
                     <img src={linkedin} alt='social' />
-                </a>
-                <a
-                    href='https://instagram.com/theleanprogrammer'
-                    className='social-icon'
-                >
-                    <img src={instagram} alt='social' />
-                </a>
-                <a
-                    href='https://medium.com/@madhavbahl'
-                    className='social-icon'
-                >
-                    <img src={medium} alt='social' />
-                </a>
-                <a href='https://madhavbahl.tech' className='social-icon'>
-                    <img src={web} alt='social' />
                 </a>
             </div>
 
