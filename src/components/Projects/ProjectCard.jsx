@@ -6,6 +6,7 @@ const ProjectCard = ({
     projectDescription,
     imageUrl,
     projectUrl,
+    websiteUrl
 }) => {
     return (
         <div className='project-card'>
