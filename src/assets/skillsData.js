@@ -21,7 +21,7 @@ export const skillList = [
     },
     {
         skillName: 'Django',
-        skillUrl: 'https://drive.google.com/uc?export=view&id=1uIRHEI6OEC6iEYuKgWa8SFLBKBgFmHCZ',
+        skillUrl: 'https://drive.google.com/uc?export=view&id=1eFH9znB3IKCRE7004AboNYkJ1iFIgzjd',
     },
     {
         skillName: 'Kubernetes',

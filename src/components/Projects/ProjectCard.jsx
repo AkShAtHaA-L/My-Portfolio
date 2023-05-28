@@ -22,9 +22,8 @@ const ProjectCard = ({
 
             <div className='project-details-container'>
                 <a href={projectUrl}  className='project-external-link'>
-                <h2 className='project-heading'>{projectName}</h2>
+                <h2 className='project-heading'>{projectName}</h2></a>
                 <p className='project-details'>{projectDescription}</p>
-                </a>
             </div>
         </div>
     );
