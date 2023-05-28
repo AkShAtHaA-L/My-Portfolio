@@ -10,7 +10,7 @@ const ProjectCard = ({
     return (
         <div className='project-card'>
             <div className='image-container'>
-                <a href={projectUrl} className='project-external-link'>
+                <a href={websiteUrl} className='project-external-link'>
                     <img
                         src={imageUrl}
                         alt='project'
@@ -20,8 +20,10 @@ const ProjectCard = ({
             </div>
 
             <div className='project-details-container'>
+                <a href={projectUrl}  className='project-external-link'>
                 <h2 className='project-heading'>{projectName}</h2>
                 <p className='project-details'>{projectDescription}</p>
+                </a>
             </div>
         </div>
     );

@@ -20,6 +20,10 @@ export const skillList = [
         skillUrl: 'https://drive.google.com/uc?export=view&id=1uIRHEI6OEC6iEYuKgWa8SFLBKBgFmHCZ',
     },
     {
+        skillName: 'Django',
+        skillUrl: 'https://drive.google.com/uc?export=view&id=1uIRHEI6OEC6iEYuKgWa8SFLBKBgFmHCZ',
+    },
+    {
         skillName: 'Kubernetes',
         skillUrl: 'https://drive.google.com/uc?export=view&id=1SS358MY6JBlVmFMymbZxiSxCS0jA5ZDz',
     },
@@ -29,10 +33,10 @@ export const skillList = [
     },
     {
         skillName: 'HTML',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/html.png',
+        skillUrl: 'https://drive.google.com/uc?export=view&id=1aOHGDtOya3MHZJ7r9m4k-PGjPFF_TRKA',
     },
     {
         skillName: 'CSS',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/css.png',
+        skillUrl: 'https://drive.google.com/uc?export=view&id=19b3OrLnitwMv1glf7EJDIsiGnDXvjMMp'
     },
 ];

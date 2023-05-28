@@ -20,6 +20,7 @@ const Projects = () => {
                         projectDescription,
                         imageUrl,
                         projectUrl,
+                        websiteUrl
                     }) => {
                         return (
                             <ProjectCard
@@ -27,6 +28,7 @@ const Projects = () => {
                                 projectDescription={projectDescription}
                                 projectUrl={projectUrl}
                                 imageUrl={imageUrl}
+                                websiteUrl={websiteUrl}
                             />
                         );
                     }
