@@ -14,7 +14,7 @@ class Home extends Component {
                     <p>Software developer with a goal-driven creative mindset and passion for learning and innovating.</p>
                 </div>
                 <div className='head-btns'>
-                    <a href='https://drive.google.com/file/d/162hwukAt4vzy8IWnVWDmQwxl7rzb1sca/view?usp=share_link' target="_blank" className='btn btn-white'>
+                    <a href='https://drive.google.com/file/d/1RmjF-Lqf7xEeMZKNz01SwOtX0ak2Ij87/view?usp=share_link' target="_blank" className='btn btn-white'>
                         <p className='btn-text'>My Resume</p>
                     </a>
                     <Link to='/contact' className='btn btn-transparent'>
