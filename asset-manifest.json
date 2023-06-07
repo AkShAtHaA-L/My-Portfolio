@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.d4670f24.css",
-    "main.js": "/My-Portfolio/static/js/main.208deb86.js",
+    "main.js": "/My-Portfolio/static/js/main.de16b2f2.js",
     "static/media/home_anime_girl.gif": "/My-Portfolio/static/media/home_anime_girl.0737d5320b0829978d1f.gif",
     "index.html": "/My-Portfolio/index.html",
     "main.d4670f24.css.map": "/My-Portfolio/static/css/main.d4670f24.css.map",
-    "main.208deb86.js.map": "/My-Portfolio/static/js/main.208deb86.js.map"
+    "main.de16b2f2.js.map": "/My-Portfolio/static/js/main.de16b2f2.js.map"
   },
   "entrypoints": [
     "static/css/main.d4670f24.css",
-    "static/js/main.208deb86.js"
+    "static/js/main.de16b2f2.js"
   ]
 }
