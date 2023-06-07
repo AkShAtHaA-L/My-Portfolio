@@ -14,5 +14,13 @@ export const projectsData = [
         imageUrl: 'https://drive.google.com/uc?export=view&id=1kDW7D4Mj5MumaoTgGzPULDVvRtOEDsR4',
         projectUrl: 'https://github.com/AkShAtHaA-L/Python-Flask-Spotify',
         websiteUrl: 'https://github.com/AkShAtHaA-L/Python-Flask-Spotify',
+    },
+    {
+        projectName: 'Django Calorie counter',
+        projectDescription:
+            'Built using django and bootstrap, it is a simple application that keeps tracks of the calories and macro nutrients consumed by the user.',
+        imageUrl: 'https://drive.google.com/uc?export=view&id=1Dg44drGZrj9au-6ERqKc-NZa_i4YTBur',
+        projectUrl: 'https://github.com/AkShAtHaA-L/Python-calorie-counter',
+        websiteUrl: 'https://github.com/AkShAtHaA-L/Python-calorie-counter',
     }
 ];
